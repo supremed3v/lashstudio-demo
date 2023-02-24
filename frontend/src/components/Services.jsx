@@ -34,7 +34,7 @@ const Services = () => {
               <h2 className="text-gray-900 text-lg title-font font-medium mb-3">
                 Classic Lash Extensions
               </h2>
-              <p className="leading-relaxed text-base w-96">
+              <p className="leading-relaxed text-base">
                 Our classic lash extensions are perfect for achieving a natural,
                 effortless look. Our lash technicians use high-quality lashes to
                 individually apply to your natural lashes, giving you a fuller
@@ -76,7 +76,7 @@ const Services = () => {
               <h2 className="text-gray-900 text-lg title-font font-medium mb-3">
                 Volume Lash Extensions
               </h2>
-              <p className="leading-relaxed text-base w-96">
+              <p className="leading-relaxed text-base">
                 Our volume lash extensions are perfect for those who want a more
                 dramatic and bold look. We use a special technique to apply
                 multiple lightweight lashes to each natural lash, giving you a
@@ -117,7 +117,7 @@ const Services = () => {
               <h2 className="text-gray-900 text-lg title-font font-medium mb-3">
                 Lash Lift and Tint
               </h2>
-              <p className="leading-relaxed text-base w-96">
+              <p className="leading-relaxed text-base">
                 Our lash lift and tint service is perfect for those who want to
                 enhance their natural lashes without the use of extensions. We
                 use a special technique to lift and curl your natural lashes,
