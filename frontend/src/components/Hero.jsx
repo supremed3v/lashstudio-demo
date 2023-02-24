@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section className="text-gray-600 body-font bg-gray-100">
       <h1 className="title-font sm:text-4xl text-center py-6 text-3xl mb-4 font-medium text-gray-900">
-        Knausgaard typewriter readymade marfa
+        Helping you feel confident, wherever life takes you.
       </h1>
 
       <div className="container mx-auto flex px-5 py-10 md:flex-row flex-col items-center">
