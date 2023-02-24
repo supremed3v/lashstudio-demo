@@ -3,6 +3,7 @@ import React from "react";
 const Testimonial = () => {
   return (
     <section className="text-gray-600 body-font">
+      <h1 className="text-3xl font-bold text-center py-10">Testimonials</h1>
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-wrap -m-4">
           <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
